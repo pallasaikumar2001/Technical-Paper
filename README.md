@@ -31,5 +31,7 @@ These are the top 6 popular tools in Messaging Queues.
 
 ###References:
 https://aws.amazon.com/message-queue/
+
 https://www.geeksforgeeks.org/message-queues-system-design/
+
 https://icepanel.medium.com/top-6-message-queues-for-distributed-architectures-a3cbabf08993
