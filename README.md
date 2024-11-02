@@ -1,4 +1,4 @@
-# Messaging Queues:
+# Messaging Queues
 
 Message queues enable communication between various system components, which makes them crucial to system architecture. Because they serve as buffers, messages can be sent and received asynchronously, enabling systems to function normally even if certain components are temporarily or slowly unavailable.
 ## Usage of Messaging Queues:
