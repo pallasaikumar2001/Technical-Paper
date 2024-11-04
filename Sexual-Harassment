@@ -1,0 +1,41 @@
+# What kind of behavior causes sexual harassment?
+
+There are 3 main types of sexual harassment.
+
+1. Verbal.
+2. Visual.
+3. Physical.
+
+## Verbal Sexual Harassment:
+
+* Asking questions about someone's sexual life or personal life.
+* Unwanted sexual remarks and joking about someone with abusive words
+* Discussing details about sexual ways with others.
+
+## Visual Sexual Harassment:
+
+* Showing offensive images, and posters that are related to sexual things.
+* Making hateful gestures in front of others.
+* Staring at someone that makes them feel discomfort.
+
+## Physical Sexual Harassment:
+
+* Touching or hugging or kissing someone unwantedly.
+* Standing too close to someone that makes them uncomfortable.
+* Physically coercing someone into sexual activity
+
+# What would you do in case you face, or witness any incident or repeated incidents of such behavior?
+
+The following are some important actions we need to take while facing or witnessing sexual harassment:
+
+1. While facing sexual harassment **speak up** to the harasser that their behavior is inappropriate.
+2. Talk to a trusted friend, family member, or counselor for emotional support.
+3. If you feel threatened or unsafe, then remove yourself from the situation immediately.
+4. Give a complaint to the Human Resources or Supervisor in the organization.
+5. Be aware of the protections in place regarding harassment in your location.
+
+##References:
+
+https://www.youtube.com/watch?v=Ue3BTGW3uRQ
+https://www.youtube.com/watch?v=u7e2c6v1oDs
+https://www.youtube.com/watch?v=o3FhoCz-FbA
